@@ -41,7 +41,7 @@ Passionate about software development and backend architecture.
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=50&count_private=true"/>
 
 </td>
 </tr>
