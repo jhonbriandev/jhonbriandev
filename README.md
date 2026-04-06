@@ -40,10 +40,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true"/>
+ 
 
 ---
 
