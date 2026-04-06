@@ -13,8 +13,6 @@
 📍 Lima, Peru 🇵🇪  
 💻 Backend Developer  
 
-Passionate about software development and backend architecture.
-
 - 🔭 Working with **Python, Django, Laravel**
 - 🌱 Expanding knowledge in **backend architecture**
 - 🧠 Interested in **software architecture and databases**
@@ -32,9 +30,9 @@ Passionate about software development and backend architecture.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -50,31 +48,7 @@ Passionate about software development and backend architecture.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jhonbriandev&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Django REST API**  
-Backend API built with Django REST Framework.
-
-🔹 **Laravel CRUD System**  
-Complete CRUD system using Laravel and MySQL.
-
-🔹 **Java Management System**  
-Desktop management system developed in Java.
-
-🔹 **Python Automation Scripts**  
-Automation tools written in Python.
-
----
-
-## 🐍 Contributions Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jhonbriandev/jhonbriandev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jhonbriandev&theme=tokyonight&no-frame=true&column=6"/>
 </p>
 
 ---
@@ -88,10 +62,4 @@ Automation tools written in Python.
 <a href="https://www.linkedin.com/in/jhon-brian-ac/">
 <img src="https://img.shields.io/badge/LinkedIn-Jhon%20Brian-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
-
----
-
-<p align="center">
-⭐ From <b>Jhon Brian</b>
 </p>
