@@ -7,7 +7,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Systems Engineering graduate (2025)  
 📍 Lima, Peru 🇵🇪  
@@ -21,7 +21,7 @@ Passionate about software development and backend architecture.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,mysql,postgres,javascript,git,linux,vscode&perline=6"/>
@@ -29,28 +29,17 @@ Passionate about software development and backend architecture.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=50&count_private=true"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=jhonbriandev&theme=tokyonight&hide_border=true"/>
@@ -58,15 +47,15 @@ Passionate about software development and backend architecture.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jhonbriandev&theme=tokyonight&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jhonbriandev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
- ------------
+---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 🔹 **Django REST API**  
 Backend API built with Django REST Framework.
@@ -82,15 +71,15 @@ Automation tools written in Python.
 
 ---
 
-# 🐍 Contributions Snake
+## 🐍 Contributions Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jhonbriandev/jhonbriandev/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/jhonbriandev">
