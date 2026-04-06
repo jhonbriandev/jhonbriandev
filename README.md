@@ -2,7 +2,7 @@
 <h3 align="center">Systems Engineer | Backend Developer | Lima, Peru 🇵🇪</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Systems+Engineer;Backend+Developer;Python+Django+Developer;Laravel+%26+Java+Developer;Building+Scalable+Backend+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Django+Developer;Laravel+Developer;Building+Scalable+Systems">
 </p>
 
 ---
@@ -14,8 +14,8 @@
 💻 Backend Developer  
 
 - 🔭 Working with **Python, Django, Laravel**
-- 🌱 Expanding knowledge in **backend architecture**
-- 🧠 Interested in **software architecture and databases**
+- 🌱 Learning **backend architecture**
+- 🧠 Interested in **software architecture & databases**
 
 ---
 
@@ -27,28 +27,30 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://img.shields.io/github/followers/jhonbriandev?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/jhonbriandev?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repos/jhonbriandev?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbriandev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=jhonbriandev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jhonbriandev&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
 ---
@@ -62,4 +64,10 @@
 <a href="https://www.linkedin.com/in/jhon-brian-ac/">
 <img src="https://img.shields.io/badge/LinkedIn-Jhon%20Brian-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Jhon Brian</b>
 </p>
