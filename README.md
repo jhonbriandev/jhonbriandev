@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon Brian</h1>
-<h3 align="center">Systems Engineer | Backend Developer | Lima, Peru  🇵🇪</h3>
+<h3 align="center">Systems Engineer | Frontend & Backend Developer | Lima, Peru  🇵🇪</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Django+Developer;Laravel+Developer;Building+Scalable+Systems">
@@ -11,9 +11,9 @@
 
 🎓 Systems Engineering graduate (2025)  
 📍 Lima, Peru 🇵🇪  
-💻 Backend Developer  
+💻 Frontend & Backend Developer  
 
-- 🔭 Working with **Python, Django, Laravel**
+- 🔭 Working with **Python, Django, Javascript, React, Laravel**
 - 🌱 Learning **backend architecture**
 - 🧠 Interested in **software architecture & databases**
 
