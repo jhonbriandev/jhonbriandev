@@ -37,47 +37,6 @@ Systems Engineer | Full Stack Developer | Lima, Peru 🇵🇪
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://img.shields.io/github/followers/jhonbriandev?style=for-the-badge&label=Followers&logo=github"
-    alt="GitHub Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/jhonbriandev?style=for-the-badge&label=Stars&logo=github"
-    alt="GitHub Stars"
-  />
-  <img
-    src="https://img.shields.io/github/public-repositories/jhonbriandev?style=for-the-badge&label=Public%20Repos&logo=github"
-    alt="Public Repositories"
-  />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jhonbriandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Jhon Brian's GitHub Stats"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jhonbriandev&theme=tokyonight&hide_border=true"
-    alt="Jhon Brian's GitHub Streak"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
